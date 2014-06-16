@@ -1,1 +1,0 @@
-Cousera exercises folder.
